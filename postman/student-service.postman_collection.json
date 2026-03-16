@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "8f60e57f-be09-4196-85b0-570031f73c5c",
+		"name": "student-service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "53240043",
+		"_collection_link": "https://aldmourhamzeh-5927067.postman.co/workspace/322ca09a-cb69-4684-8552-4adf47f090f7/collection/53240043-8f60e57f-be09-4196-85b0-570031f73c5c?action=share&source=collection_link&creator=53240043"
+	},
+	"item": [
+		{
+			"name": "Get all students (paginated)",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Student by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "POST Create new Student",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE Delete Student by student id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
